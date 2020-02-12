@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\carpimtablosu\Tabloolustur\Tabloolustur\bin\Debug\Tabloolustur.exe.config
+C:\Users\Windows10\Documents\GitHub\carpimtablosu\Tabloolustur\Tabloolustur\bin\Debug\Tabloolustur.exe
+C:\Users\Windows10\Documents\GitHub\carpimtablosu\Tabloolustur\Tabloolustur\bin\Debug\Tabloolustur.pdb
+C:\Users\Windows10\Documents\GitHub\carpimtablosu\Tabloolustur\Tabloolustur\obj\Debug\Tabloolustur.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\carpimtablosu\Tabloolustur\Tabloolustur\obj\Debug\Tabloolustur.exe
+C:\Users\Windows10\Documents\GitHub\carpimtablosu\Tabloolustur\Tabloolustur\obj\Debug\Tabloolustur.pdb
